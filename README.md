@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi There
 
-<!--
-**Codetector1374/Codetector1374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Codetector (Yaotian Feng)
 
-Here are some ideas to get you started:
+- :school: Undergraduate Student in Computer Science at Georgia Institute of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :star: Interested in Compilers, Operating Systems, Old Hardware, High Performance Computing, Homelab :dart:
+
+- :email: codetector#codetector.org
+
+[![Github Status](https://github-readme-stats.vercel.app/api?username=codetector1374)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codetector1374&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
