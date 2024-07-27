@@ -3,7 +3,7 @@
 I'm Codetector (Yaotian Feng)
 - :office_worker: Works at @NVIDIA
 
-- :school: Undergraduate Degree in Computer Science From Georgia Institute of Technology
+- :school: Bachelor's Degree in Computer Science From Georgia Institute of Technology
 
 - :star: Interested in Compilers, Operating Systems, Old Hardware, High Performance Computing, Homelab :dart:
 
